@@ -1,1 +1,1 @@
-# javascript-khan
+# javascript-notes
